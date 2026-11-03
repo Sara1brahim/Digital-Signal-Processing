@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+.vscode/
+.idea/
+
+.pytest_cache/
+.ipynb_checkpoints/
+
+tempCodeRunnerFile.py
